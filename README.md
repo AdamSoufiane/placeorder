@@ -1,0 +1,1 @@
+The PlaceOrder shred enables users to place orders through a REST API. It consists of a domain layer with entities and value objects, an application layer with services and ports, and an infrastructure layer with adapters and external interfaces for database interaction. The system calculates the to
